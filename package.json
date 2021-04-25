@@ -1,0 +1,19 @@
+{
+  "name": "is219-api-intro",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/jar243/is219-api-intro.git",
+  "author": "fake name <bruh@fam.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp startServer"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
